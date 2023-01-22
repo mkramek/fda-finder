@@ -1,0 +1,18 @@
+{
+  "label": {
+    "search": "Search",
+    "manufacturer": "FDA Manufacturer Name",
+    "brand": "FDA Brand Name"
+  },
+  "table": {
+    "manufacturer": "FDA Manufacturer Name",
+    "brand": "FDA Brand Name",
+    "product": "Product"
+  },
+  "input": {
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "app": "Drug Record Application Finder",
+  "summary": "Total products count"
+}

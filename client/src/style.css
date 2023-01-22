@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
+/* Material Icons: Rule for sizing the icon. */
+.material-icons.md-36 { font-size: 36px; }
